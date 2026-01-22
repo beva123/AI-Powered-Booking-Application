@@ -1,0 +1,17 @@
+# Ignore Flutter build outputs
+.build/
+build/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
+linux/
+windows/
+macos/
+
+# Git stuff
+.git
+.gitignore
